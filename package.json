@@ -1,0 +1,31 @@
+{
+  "name": "nguyenjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MythSeven2/nodejs_nguyen21.git"
+  },
+  "keywords": [
+    "vng",
+    "nodejs",
+    "node"
+  ],
+  "author": "vinhnguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MythSeven2/nodejs_nguyen21/issues"
+  },
+  "homepage": "https://github.com/MythSeven2/nodejs_nguyen21#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  }
+}
